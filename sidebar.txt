@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[shd:home|Door43 (shd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-shd|d43-shd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-shd/archive/master.zip|d43-shd.zip]]
+
+**Recent Changes**
+{{changes>ns = shd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/shd|Ethnologue data]]
+
